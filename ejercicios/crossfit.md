@@ -18,3 +18,8 @@ El CrossFit es un tipo de ejercicio que aumenta tu frecuencia cardíaca y mejora
 2. Adaptar el peso a lo que se pueda levantar
 3. Usar gomas de resistencia para ejercicios de fuerza
 4. Usar un cajón para impulsarse en ejercicios como los muscle ups
+
+## Consejos
+- Mantén una hidratación adecuada
+- Alimentate bien
+- Descansa al menos un dia para recuperacion
