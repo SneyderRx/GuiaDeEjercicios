@@ -2,3 +2,13 @@
 
 ## Descripción
 El CrossFit es un tipo de ejercicio que aumenta tu frecuencia cardíaca y mejoran la resistencia, ese es su enfoque, tambien mejora la postura corporal y te lleva al limite en muy poco tiempo.
+
+## Beneficios
+- Ayuda a bajar peso
+- Aumenta tu resistencia
+- Mejora la Psicomotricidad
+- Fortalece la musculatura
+- Un cuerpo más estilizado
+- Aporta concentración y motivación extra
+- Reduce el nivel de estrés
+- Aumenta las relaciones sociales
