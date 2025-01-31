@@ -15,3 +15,10 @@ EL boxeo es un deporte de contacto donde se usa la agilidad, destreza y la fuerz
 2. Usa guantes para proteger tus manos.
 3. No se puede golpear a un oponente caido
 4. Se compite en una categoria segun su peso.
+
+## Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
+- Usa guantes adecuados.
+- Siempre manten tu cara detras de tus manos.
+- No hagas trampa.
