@@ -21,3 +21,13 @@ La flexibilidad es la capacidad de los músculos para adaptarse a distintos grad
 6. No tengas como objetivo sentir dolor.
 7. Si sientes dolor agudo o punzante, o dolor en las articulaciones, debes parar.
 8. Si tienes afecciones médicas o lesiones, consulta a un profesional de la salud.
+
+## Consejos
+- Calienta el cuerpo durante 5 a 10 minutos antes de estirarte.
+- Respira normalmente mientras estiras.
+- Estira hasta que sientas un ligero tirón.
+- Mantén el estiramiento durante 10 a 30 segundos.
+- Repite el estiramiento 2 a 4 veces de ambos lados.
+- Concéntrate en los principales grupos musculares, como los - hombros, el cuello, las caderas, los muslos y las pantorrillas.
+- No rebotes ni hagas movimientos bruscos.
+- Si tienes dolor agudo o punzante, o dolor en las articulaciones, deja de estirarte.
