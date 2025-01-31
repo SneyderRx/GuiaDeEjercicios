@@ -18,3 +18,12 @@ EL deporte del ciclismo es un deporte que aumentan tu frecuencia cardíaca y mej
 - Respetar las señales de tránsito
 - Señalizar las maniobras
 - Advertir cuando vayas a frenar
+
+## Consejos
+- Empezar lentamente y darle tiempo a tu cuerpo para adaptarse
+- Calentar al inicio del recorrido
+- Utilizar los cambios de la bicicleta
+- Aprender a montar en grupo y seguir sus reglas
+- Hacer pausas para comer y evitar el cansancio
+- Elegir el camino adecuado para tu nivel
+- Disfrutar de la actividad
