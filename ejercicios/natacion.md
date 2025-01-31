@@ -12,3 +12,11 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 - Evita y alivia el dolor de espalda
 - Ayuda a perder peso
 - Nos permite entrenar cuando nos lesionamos
+
+## Instrucciones
+1. Familiarízate con el agua
+2. Aprende a respirar
+3. Aprende a flotar
+4. Practica la patada mientras te mueves
+5. Aprende a mover los brazos
+6. Presta atención a los dedos y las manos
