@@ -16,3 +16,9 @@ El Método Pilates o simplemente pilates es un deporte en el que se trabajan el 
 2. Entrena descalzo/a
 3. Siempre usa una colchoneta como mínimo 
 4. Empieza a entrenar ligero y con frecuencia
+
+## Consejos
+- Utiliza ropa elástica y preferiblemente no muy holgada. 
+- Imprescindible realizar estiramientos.
+- Sé consciente de tu respiración e intenta controlarla.
+- Respeta tus límites, si ves que un ejercicio es demasiado para ti, no sigas. 
