@@ -10,3 +10,11 @@ EL deporte del ciclismo es un deporte que aumentan tu frecuencia cardíaca y mej
 - Mejora la generacion de energia de tus celulas.
 - Ayuda a quemar muchas calorías.
 - Mejora el estado de ánimo.
+
+## Instrucciones
+- Usar casco
+- Evitar el uso de teléfono o auriculares
+- No conducir bajo los efectos del alcohol
+- Respetar las señales de tránsito
+- Señalizar las maniobras
+- Advertir cuando vayas a frenar
