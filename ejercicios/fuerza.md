@@ -25,3 +25,13 @@ Mejora la postura y el equilibrio: Ayuda a tener una mejor posición corporal.
 - Utiliza técnicas adecuadas al levantar peso.
 - Evita la hiperventilación.
 - Dejar de hacer levantamientos de inmediato si sientes dolor.
+
+## Consejos
+- Calienta: El calentamiento ayuda a lubricar las articulaciones, aumenta la temperatura muscular y activa el sistema nervioso. 
+- Escoge el peso adecuado: Comienza con un peso que puedas levantar cómodamente 12 a 15 veces. 
+- Mantén la postura correcta: Mantén el pecho erguido y los hombros hacia atrás y hacia abajo. 
+- Descansa: Descansa entre 3 y 5 minutos entre series para que el cuerpo se regenere. 
+- Registra tus marcas: Anotar los pesos que manejas y los entrenamientos que realizas te ayuda a planificar y a ver cómo evoluciona tu fuerza. 
+- Haz ejercicios para todos los grupos musculares: Trata de hacer ejercicios de fortalecimiento muscular para todos los grupos musculares principales al menos dos veces a la semana. 
+- Crea un buen ambiente: Escuchar música que te guste puede ayudarte a entrenar mejor. 
+- Divide las rutinas: Si eres principiante y entrenas varios días seguidos, puedes dividir el cuerpo en dos o más zonas y dedicarle sesiones específicas a cada una. 
