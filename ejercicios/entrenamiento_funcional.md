@@ -9,3 +9,10 @@ El entrenamiento funcional es un tipo de ejercicio que se basa en movimientos qu
 - Colabora en la prevención de lesiones.
 - Mejora la movilidad articular y flexibilidad dinámica.
 - Mejora la postura corporal.
+
+## Instrucciones
+- Definir tus metas
+- Iniciar con una rutina suave
+- Aumentar la intensidad gradualmente
+- Incorporar descanso y recuperación
+- Mantener la variedad en las rutinas
