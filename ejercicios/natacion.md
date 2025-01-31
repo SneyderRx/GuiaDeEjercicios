@@ -20,3 +20,12 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 4. Practica la patada mientras te mueves
 5. Aprende a mover los brazos
 6. Presta atención a los dedos y las manos
+
+## Consejos
+- Presta atención a la posición de tu cabeza
+- Extiende los brazos hacia delante
+- Mezclar distintos tipos de brazada
+- Rodar y rotas, cuida tus movimientos
+- Alinea el tiempo de tus patadas
+- Aprende a respirar por ambos lados
+- Aprende la técnica correcta del estilo libre
