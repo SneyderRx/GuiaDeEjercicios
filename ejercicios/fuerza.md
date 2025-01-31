@@ -14,3 +14,14 @@ Mejora la postura y el equilibrio: Ayuda a tener una mejor posición corporal.
 - Disminuye la grasa visceral: Reduce el riesgo de infarto y enfermedades metabólicas o cardiovasculares. 
 - Mejora la sensibilidad a la leptina: Regula el peso corporal y la sensación de saciedad. 
 - Mejora la cognición: Algunos estudios apuntan a que el entrenamiento de fuerza mejora la cognición
+
+## Instrucciones
+- Comienza con un peso que puedas levantar cómodamente 12 a 15 veces.
+- Adopta la posición correcta de tu cuerpo.
+- Respira.
+- Busca el equilibrio.
+- Descansa entre cada serie.
+- Aumenta la intensidad de forma gradual.
+- Utiliza técnicas adecuadas al levantar peso.
+- Evita la hiperventilación.
+- Dejar de hacer levantamientos de inmediato si sientes dolor.
