@@ -10,3 +10,9 @@ El Método Pilates o simplemente pilates es un deporte en el que se trabajan el 
 - Salud de las articulaciones
 - Fuerza muscular
 - Más energía
+
+## Instrucciones
+1. Vístete cómodamente
+2. Entrena descalzo/a
+3. Siempre usa una colchoneta como mínimo 
+4. Empieza a entrenar ligero y con frecuencia
